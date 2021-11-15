@@ -1,9 +1,10 @@
 SQL 
 
-Создание таблицы -  CREATE TABLE name_table ( 
-							genre_id INT PRIMARY KEY AUTO_INCREMENT, 
-							name_genre VARCHAR(30)
-							);
+Создание таблицы -  
+	CREATE TABLE name_table ( 
+	genre_id INT PRIMARY KEY AUTO_INCREMENT, 
+	name_genre VARCHAR(30)
+	);
 
 Вставка в таблицу - INSERT INTO book VALUES (NULL, 'Мастер и Марарита',  'Булгаков М.А.', 670.99, 3);
 
