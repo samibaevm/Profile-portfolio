@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">I'm learning Web and Mobile testing.</h3>
 
-- 🔭 I’m currently working on **searching a new interesting projects**
+- 🔭 I’m currently working on **searching for new interesting projects**
 
 - 🌱 I’m currently learning **SQL, Postman**
 
