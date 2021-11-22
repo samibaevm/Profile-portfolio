@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I try to draw funny stickers for telegram using my friends photos =)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
