@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">I'm learning Web and Mobile testing.</h3>
+<h1 align="center">Примеры тестовой документации</h1>
+<h3 align="center">Здесь предоставлены некоторые примеры оформления документации:</h3>
 
-- 🔭 I’m currently working on **searching a new interesting projects**
+- Mind map - структурированный план, для составления тест кейсов/ чек листов, чтобы не пропустить какие либо компоненты программы/веб-приложения
 
-- 🌱 I’m currently learning **SQL, Postman**
+- Check box - список функций которые нужно проверить, сгруппирированные по компонентам  
 
-- 📫 How to reach me **samibaevm@gmail.com**
+- Test case -  подробная инструкция по проверке того или иного компонета/функционала обязательного для проверки с подробным описанием действий.
 
-- ⚡ Fun fact **I try to draw funny stickers for telegram using my friends photos =)**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Bug report - документ о нахождении бага (несоответствии заявленных требований с действительными)
