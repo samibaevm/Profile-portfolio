@@ -1,0 +1,21 @@
+#!/bin/bash
+#This is comment 
+echo  "The current directory is:"
+pwd
+echo "The user logged in is:"
+whoami
+echo "Create new folders:"
+mkdir dir1 dir2 dir3
+ls 
+echo "Enter in folder 1"
+cd dir1
+ls
+echo "Create 5 new files"
+touch file1.txt file2.txt file3.txt file_json1.json file_kson2.json
+ls
+echo "Create anothe new 3 folders"
+mkdir dir4 dir5 dir6
+echo "all files in dir"
+ls
+echo "Moving 2 files"
+mv file1.txt file_json1.json ../
