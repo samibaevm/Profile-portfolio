@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samibaevm@gmail.com**
 
-- ⚡ Fun fact **I try to draw funny stickers for telegram using my friends photos =)**
+- ⚡ Trying to solve codewars quizzes
 
 <p align="left">
 </p>
