@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **searching for new interesting projects**
 
-- 🌱 I’m currently learning **SQL, Postman tests and python Selemium **
+- 🌱 I’m currently learning **SQL, Postman tests and python Selemium**
 
 - 📫 How to reach me **samibaevm@gmail.com**
 
