@@ -7,7 +7,7 @@ id serial primary key,
 employee_name Varchar(50) not null
 );
 
---2.Fill table employee 70 строками
+--2.Fill table employee 70 lines
 
 insert into employees (employee_name)
 values  ('James'),
@@ -90,7 +90,7 @@ id Serial primary key,
 monthly_salary int not null
 );
 
---Fill table salary 15 строками:
+--Fill table salary 15 lines:
 
 insert into salary (monthly_salary)
 values  (1000),
@@ -124,7 +124,7 @@ salary_id int not null
 );
 
 /*
-Fill table employee_salary 40 строками:
+Fill table employee_salary 40 lines:
 - in 10 strokes of 40 inssert non-existent employee_id
 */
 
@@ -182,12 +182,12 @@ create table roles(
 	role_name int not null unique
 );
 
---Change column type role_name с int на varchar(30)
+--Change column type role_name from int to varchar(30)
 
 alter table roles
 alter column role_name type varchar(30);
 
---Наполнить таблицу roles 20 строками:
+--Fill table roles 20 lines:
 
 insert into roles (role_name)
 values  ('Junior Python developer'),
@@ -214,8 +214,8 @@ values  ('Junior Python developer'),
 /*
 Create table roles_employee
 - id. Serial  primary key,
-- employee_id. Int, not null, unique (внешний ключ для таблицы employees, поле id)
-- role_id. Int, not null (внешний ключ для таблицы roles, поле id)
+- employee_id. Int, not null, unique (ГўГ­ГҐГёГ­ГЁГ© ГЄГ«ГѕГ· Г¤Г«Гї ГІГ ГЎГ«ГЁГ¶Г» employees, ГЇГ®Г«ГҐ id)
+- role_id. Int, not null (ГўГ­ГҐГёГ­ГЁГ© ГЄГ«ГѕГ· Г¤Г«Гї ГІГ ГЎГ«ГЁГ¶Г» roles, ГЇГ®Г«ГҐ id)
 */
 	
 create table roles_employee
@@ -224,7 +224,7 @@ employee_id int not null unique,
 foreign key (role_id) references roles(id);
 
 
---Fill table roles_employee 40 строками:
+--Fill table roles_employee 40 lines:
 
 insert into roles_employee (employee_id, role_id)
 values  ( 16 , 17 ),
