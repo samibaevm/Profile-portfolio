@@ -185,8 +185,4 @@ SQL
 				    INNER JOIN book ON genre.genre_id = book.genre_id
 				    INNER JOIN author ON book.author_id = author.author_id
 				WHERE name_genre = 'Роман'
-				ORDER BY title; 
-
-
-
-2.1																					
+				ORDER BY title; 															
